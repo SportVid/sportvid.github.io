@@ -1,14 +1,19 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
   title: "Sportvid"
+  favicon: favicon.ico
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: "Über das Projekt"
+      - href: team.qmd
+        text: "Projektteam"
+      
 
 format:
   html:

@@ -1,9 +1,34 @@
 ---
-title: "About"
+title: "Über das Projekt"
 ---
 
-About this site
+## Über das Projekt **SportVid**
 
-```{r}
-1 + 1
-```
+**SportVid** ist ein innovatives Forschungsprojekt mit dem Ziel, den Breiten- und Amateursport durch moderne Technologien auf ein neues Level zu heben. Im Mittelpunkt steht die Entwicklung einer datengestützten Videoplattform, die es Trainer*innen, Sportler*innen und Vereinen ermöglicht, Spielszenen im Fußball auf einfache Weise zu analysieren und daraus gezielt Trainingsmaßnahmen abzuleiten.
+
+### 🌟 Was wollen wir erreichen?
+
+Das Hauptziel von SportVid ist die **Demokratisierung sportwissenschaftlicher Analyseverfahren**: Methoden, die bislang nur im Profibereich zugänglich waren, sollen auch für den Amateur- und Breitensport nutzbar gemacht werden – niedrigschwellig, verständlich und datenschutzkonform.
+
+### 🔬 Unser Forschungsansatz
+
+Das Projekt gliedert sich in drei zentrale Phasen:
+
+1.  **Bedarfsanalyse und Konzeptentwicklung**\
+    Gemeinsam mit Nutzer\*innen werden die Anforderungen an die Plattform systematisch erhoben. Dazu gehören technische, sportpraktische und pädagogische Aspekte.
+
+2.  **Entwicklung und Umsetzung**\
+    Eine webbasierte Plattform wird entwickelt, auf der Videomaterial hochgeladen, automatisch verarbeitet und mit KI-gestützten Methoden analysiert werden kann. Besonderes Augenmerk liegt auf Benutzerfreundlichkeit und Datenschutz.
+
+3.  **Evaluation und Transfer**\
+    Die Plattform wird in realen Trainings- und Spielkontexten mit Vereinen und Verbänden getestet. Die Rückmeldungen fließen direkt in die Weiterentwicklung ein. Am Ende steht ein Konzept für den langfristigen Transfer in die Sportpraxis.
+
+### 💡 Warum ist das wichtig?
+
+Fußball ist nicht nur die beliebteste Sportart in Deutschland, sondern auch ein bedeutender Bildungs- und Sozialraum. Mit SportVid möchten wir einen Beitrag dazu leisten, dass digitale Innovationen auch im Amateurbereich ankommen – und zwar dort, wo sie gebraucht werden: auf dem Platz, in der Kabine, im Verein.
+
+------------------------------------------------------------------------
+
+> **SportVid** wird gefördert von der Deutschen Forschungsgesellschaft (DFG) im Rahmen der DFG-LIS-Förderlinie.
+
+Besuchen Sie bald unsere Plattform und begleiten Sie uns auf dem Weg zu einer digitalen, offenen und fairen Sportzukunft!

@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "SportVid - Eine Plattform …",
+    "title": "SportVid - Ein Portal zur Unterstützung der Suche, Analyse und Auswertung von Videos in der Sport- und Trainingswissenschaft",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "DFG-Geschäftszeichen: EW 134/22-1"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Über das Projekt",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "SportVid ist ein innovatives Forschungsprojekt mit dem Ziel, den Breiten- und Amateursport durch moderne Technologien auf ein neues Level zu heben. Im Mittelpunkt steht die Entwicklung einer datengestützten Videoplattform, die es Trainerinnen, Sportlerinnen und Vereinen ermöglicht, Spielszenen im Fußball auf einfache Weise zu analysieren und daraus gezielt Trainingsmaßnahmen abzuleiten.\n\n\nDas Hauptziel von SportVid ist die Demokratisierung sportwissenschaftlicher Analyseverfahren: Methoden, die bislang nur im Profibereich zugänglich waren, sollen auch für den Amateur- und Breitensport nutzbar gemacht werden – niedrigschwellig, verständlich und datenschutzkonform.\n\n\n\nDas Projekt gliedert sich in drei zentrale Phasen:\n\nBedarfsanalyse und Konzeptentwicklung\nGemeinsam mit Nutzer*innen werden die Anforderungen an die Plattform systematisch erhoben. Dazu gehören technische, sportpraktische und pädagogische Aspekte.\nEntwicklung und Umsetzung\nEine webbasierte Plattform wird entwickelt, auf der Videomaterial hochgeladen, automatisch verarbeitet und mit KI-gestützten Methoden analysiert werden kann. Besonderes Augenmerk liegt auf Benutzerfreundlichkeit und Datenschutz.\nEvaluation und Transfer\nDie Plattform wird in realen Trainings- und Spielkontexten mit Vereinen und Verbänden getestet. Die Rückmeldungen fließen direkt in die Weiterentwicklung ein. Am Ende steht ein Konzept für den langfristigen Transfer in die Sportpraxis.\n\n\n\n\nFußball ist nicht nur die beliebteste Sportart in Deutschland, sondern auch ein bedeutender Bildungs- und Sozialraum. Mit SportVid möchten wir einen Beitrag dazu leisten, dass digitale Innovationen auch im Amateurbereich ankommen – und zwar dort, wo sie gebraucht werden: auf dem Platz, in der Kabine, im Verein.\n\n\nSportVid wird gefördert von der Deutschen Forschungsgesellschaft (DFG) im Rahmen der DFG-LIS-Förderlinie.\n\nBesuchen Sie bald unsere Plattform und begleiten Sie uns auf dem Weg zu einer digitalen, offenen und fairen Sportzukunft!"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Projektteam",
+    "section": "",
+    "text": "Prof. Dr. Ralph Ewerth\nUniversität Marburg, Affil TODO\n          \n\n\n\n\n\n\n\n\n\n\n\n\nProf. Dr. Daniel Memmert\nDeutsche Sporthochschule Köln\nInstitut für Trainingswissenschaft und Sportinformatik\n          \n\n\n\n\n\n\n\n\n\n\n\n\n\nDr. Eric Müller-Budack\nTIB Hannover, Affil TODO\n          \n\n\n\n\n\n\n\n\n\n\n\n\nJonas Theiner\nTIB Hannover, Affil TODO\n          \n\n\n\n\n\n\n\n\n\n\n\n\nYannik Paul\nDeutsche Sporthochschule Köln\nInstitut für Trainingswissenschaft und Sportinformatik\n          \n\n\n\n\n\n\n\n\n\n\n\n\nMaximilian Klemp\nDeutsche Sporthochschule Köln\nInstitut für Trainingswissenschaft und Sportinformatik"
+  },
+  {
+    "objectID": "team.html#projektteam",
+    "href": "team.html#projektteam",
+    "title": "Projektteam",
+    "section": "",
+    "text": "Universität Marburg, Affil TODO"
+  },
+  {
+    "objectID": "about.html#über-das-projekt-sportvid",
+    "href": "about.html#über-das-projekt-sportvid",
+    "title": "Über das Projekt",
+    "section": "",
+    "text": "SportVid ist ein innovatives Forschungsprojekt mit dem Ziel, den Breiten- und Amateursport durch moderne Technologien auf ein neues Level zu heben. Im Mittelpunkt steht die Entwicklung einer datengestützten Videoplattform, die es Trainerinnen, Sportlerinnen und Vereinen ermöglicht, Spielszenen im Fußball auf einfache Weise zu analysieren und daraus gezielt Trainingsmaßnahmen abzuleiten.\n\n\nDas Hauptziel von SportVid ist die Demokratisierung sportwissenschaftlicher Analyseverfahren: Methoden, die bislang nur im Profibereich zugänglich waren, sollen auch für den Amateur- und Breitensport nutzbar gemacht werden – niedrigschwellig, verständlich und datenschutzkonform.\n\n\n\nDas Projekt gliedert sich in drei zentrale Phasen:\n\nBedarfsanalyse und Konzeptentwicklung\nGemeinsam mit Nutzer*innen werden die Anforderungen an die Plattform systematisch erhoben. Dazu gehören technische, sportpraktische und pädagogische Aspekte.\nEntwicklung und Umsetzung\nEine webbasierte Plattform wird entwickelt, auf der Videomaterial hochgeladen, automatisch verarbeitet und mit KI-gestützten Methoden analysiert werden kann. Besonderes Augenmerk liegt auf Benutzerfreundlichkeit und Datenschutz.\nEvaluation und Transfer\nDie Plattform wird in realen Trainings- und Spielkontexten mit Vereinen und Verbänden getestet. Die Rückmeldungen fließen direkt in die Weiterentwicklung ein. Am Ende steht ein Konzept für den langfristigen Transfer in die Sportpraxis.\n\n\n\n\nFußball ist nicht nur die beliebteste Sportart in Deutschland, sondern auch ein bedeutender Bildungs- und Sozialraum. Mit SportVid möchten wir einen Beitrag dazu leisten, dass digitale Innovationen auch im Amateurbereich ankommen – und zwar dort, wo sie gebraucht werden: auf dem Platz, in der Kabine, im Verein.\n\n\nSportVid wird gefördert von der Deutschen Forschungsgesellschaft (DFG) im Rahmen der DFG-LIS-Förderlinie.\n\nBesuchen Sie bald unsere Plattform und begleiten Sie uns auf dem Weg zu einer digitalen, offenen und fairen Sportzukunft!"
+  },
+  {
+    "objectID": "index.html#das-forschungsprojekt-sportvid",
+    "href": "index.html#das-forschungsprojekt-sportvid",
+    "title": "SportVid - Ein Portal zur Unterstützung der Suche, Analyse und Auswertung von Videos in der Sport- und Trainingswissenschaft",
+    "section": "Das Forschungsprojekt SportVid",
+    "text": "Das Forschungsprojekt SportVid\nSportVid ist ein interdisziplinäres Forschungsprojekt mit dem Ziel, eine digitale Infrastruktur für videogestützte Spielanalysen im Breiten- und Nachwuchssport zu entwickeln. Dabei steht die Ermöglichung niedrigschwelliger, datenschutzkonformer und pädagogisch sinnvoller Videonutzung im Zentrum.\n\n🎯 Projektziele\nDas Projekt verfolgt das übergeordnete Ziel, Trainer*innen, Sportlehrkräfte sowie Forschende dabei zu unterstützen, Videomaterial systematisch für spielbezogene Reflexion, Vermittlung und Leistungsentwicklung zu nutzen. Hierzu wird eine Online-Plattform entwickelt, die:\n\nden Upload, die KI-gestützte Analyse und die gezielte Auswahl von Spielszenen ermöglicht,\nden Zugriff auf Lehrmaterialien erlaubt, die eine reflektierte Nutzung der Technik fördern,\nund auf Datensicherheit, Transparenz und pädagogische Steuerbarkeit besonderen Wert legt.\n\n\n\n🧪 Forschungsstruktur\nDas Projekt ist in drei Arbeitspakete (APs) gegliedert:\n\nAP1 – Bedarfsanalyse & Konzeptentwicklung\nIn diesem Arbeitspaket wird der bestehende Forschungsstand systematisch aufgearbeitet und durch Expert*inneninterviews mit Fachkräften aus Sportwissenschaft, Bildung und Technologie ergänzt. Ziel ist die konzeptionelle Grundlage für die Plattform und die begleitenden didaktischen Materialien.\nAP2 – Entwicklung digitaler Infrastruktur & Materialien\nAuf Basis der Ergebnisse aus AP1 wird eine webbasierte Plattform programmiert, die Videoanalysen mit computerbasierten Verfahren wie Objektverfolgung (Tracking) kombiniert. Parallel werden didaktisch aufbereitete Inhalte für die Aus- und Fortbildung erstellt.\nAP3 – Evaluation & Dissemination\nDie Evaluation erfolgt formatbezogen und beinhaltet qualitative Rückmeldungen von ausgewählten Expert*innen sowie eine nutzerorientierte Formatbewertung. Darüber hinaus ist die Veröffentlichung von Ergebnissen sowie der Transfer in die sportwissenschaftliche und sportpädagogische Praxis vorgesehen.\n\n\n\n🛠 Technologische Grundlage\nDie Plattform nutzt aktuelle Verfahren aus der Computer Vision, um ball- und spielerzentrierte Informationen automatisiert aus Videoaufnahmen zu extrahieren. Ziel ist es, spielrelevante Szenen (z. B. Ballverluste, Torschüsse) algorithmisch zu erkennen und visuell aufbereitet bereitzustellen. Dabei wird besonderer Wert auf eine intuitive Bedienung und die Steuerbarkeit durch pädagogische Fachkräfte gelegt.\n\n\nSportVid wird gefördert durch die Deutsche Forschungsgemeinschaft (DFG) im Rahmen des Förderprogramms für Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)\n\nWeitere Informationen folgen auf dieser Seite in Kürze. Bei Interesse an künftigen Ergebnissen des Projekts freuen wir uns über Ihre Kontaktaufnahme!"
   }
 ]

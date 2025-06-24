@@ -1,0 +1,92 @@
+---
+title: "Projektteam"
+---
+
+::::: columns
+::: {.column width="40%" vertical-align="middle"}
+[![](img/ewerth.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+:::
+
+::: {.column width="60%"}
+##### **Prof. Dr. Ralph Ewerth**
+
+Universität Marburg, Affil TODO
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="40%" vertical-align="middle"}
+[![](img/memmert.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+:::
+
+::: {.column width="60%"}
+##### **Prof. Dr. Daniel Memmert**
+
+Deutsche Sporthochschule Köln\
+Institut für Trainingswissenschaft und Sportinformatik
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+::::: columns
+::: {.column width="40%" vertical-align="middle"}
+[![](img/muellerbudack.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+:::
+
+::: {.column width="60%"}
+##### **Dr. Eric Müller-Budack**
+
+TIB Hannover, Affil TODO
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="40%" vertical-align="middle"}
+[![](img/theiner.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+:::
+
+::: {.column width="60%"}
+##### **Jonas Theiner**
+
+TIB Hannover, Affil TODO
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="40%" vertical-align="middle"}
+[![](img/paul.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+:::
+
+::: {.column width="60%"}
+##### **Yannik Paul**
+
+Deutsche Sporthochschule Köln\
+Institut für Trainingswissenschaft und Sportinformatik
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="40%" vertical-align="middle"}
+[![](img/klemp.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+:::
+
+::: {.column width="60%"}
+##### **Maximilian Klemp**
+
+Deutsche Sporthochschule Köln\
+Institut für Trainingswissenschaft und Sportinformatik
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+:::
+:::::
