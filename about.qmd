@@ -4,6 +4,23 @@ title: "Über das Projekt"
 
 ## Über das Projekt **SportVid**
 
+**SportVid** ist ein interdisziplinäres Forschungsprojekt mit dem Ziel, eine digitale Infrastruktur für videogestützte Spielanalysen im Breiten- und Nachwuchssport zu entwickeln. Dabei steht die Ermöglichung niedrigschwelliger, datenschutzkonformer und pädagogisch sinnvoller Videonutzung im Zentrum.
+
+Das Projekt verfolgt das übergeordnete Ziel, Trainer\*innen, Sportlehrkräfte sowie Forschende dabei zu unterstützen, Videomaterial zu teilen sowie KI-gestützt zu analysieren. \
+Die Hauptbeiträge von *SportVid* beinhalten dabei
+
+1\) Die Organisation und Indexierung von Videos in einer wissenschaftlichen Datenbank, die eine systematische Suche ermöglicht
+
+2\) Die Implementierung aktueller **KI-Verfahren** aus dem Bereich der Computer Vision zum Zweck einer automatisierten Analyse der hochgeladenen Videos **TODO FINISH**
+
+3\) Bereitstellung einer Bedienoberfläche zur Videoanalyse mit aktuellen Methoden **TODO FINISH**
+
+systematisch für spielbezogene Reflexion, Vermittlung und Leistungsentwicklung zu nutzen. Hierzu wird eine Online-Plattform entwickelt, die:
+
+-   den **Upload, die KI-gestützte Analyse und die gezielte Auswahl von Spielszenen** ermöglicht,
+-   den **Zugriff auf Lehrmaterialien** erlaubt, die eine reflektierte Nutzung der Technik fördern,
+-   und auf **Datensicherheit, Transparenz und pädagogische Steuerbarkeit** besonderen Wert legt.
+
 **SportVid** ist ein innovatives Forschungsprojekt mit dem Ziel, den Breiten- und Amateursport durch moderne Technologien auf ein neues Level zu heben. Im Mittelpunkt steht die Entwicklung einer datengestützten Videoplattform, die es Trainer*innen, Sportler*innen und Vereinen ermöglicht, Spielszenen im Fußball auf einfache Weise zu analysieren und daraus gezielt Trainingsmaßnahmen abzuleiten.
 
 ### 🌟 Was wollen wir erreichen?
@@ -32,3 +49,28 @@ Fußball ist nicht nur die beliebteste Sportart in Deutschland, sondern auch ein
 > **SportVid** wird gefördert von der Deutschen Forschungsgesellschaft (DFG) im Rahmen der DFG-LIS-Förderlinie.
 
 Besuchen Sie bald unsere Plattform und begleiten Sie uns auf dem Weg zu einer digitalen, offenen und fairen Sportzukunft!
+
+------------------------------------------------------------------------
+
+### 🧪 Forschungsstruktur
+
+Das Projekt ist in drei Arbeitspakete (APs) gegliedert:
+
+1.  **AP1 – Bedarfsanalyse & Konzeptentwicklung**\
+    In diesem Arbeitspaket wird der bestehende Forschungsstand systematisch aufgearbeitet und durch Expert\*inneninterviews mit Fachkräften aus Sportwissenschaft, Bildung und Technologie ergänzt. Ziel ist die konzeptionelle Grundlage für die Plattform und die begleitenden didaktischen Materialien.
+
+2.  **AP2 – Entwicklung digitaler Infrastruktur & Materialien**\
+    Auf Basis der Ergebnisse aus AP1 wird eine webbasierte Plattform programmiert, die Videoanalysen mit computerbasierten Verfahren wie Objektverfolgung (Tracking) kombiniert. Parallel werden didaktisch aufbereitete Inhalte für die Aus- und Fortbildung erstellt.
+
+3.  **AP3 – Evaluation & Dissemination**\
+    Die Evaluation erfolgt formatbezogen und beinhaltet qualitative Rückmeldungen von ausgewählten Expert\*innen sowie eine nutzerorientierte Formatbewertung. Darüber hinaus ist die Veröffentlichung von Ergebnissen sowie der Transfer in die sportwissenschaftliche und sportpädagogische Praxis vorgesehen.
+
+### 🛠 Technologische Grundlage
+
+Die Plattform nutzt aktuelle Verfahren aus der **Computer Vision**, um ball- und spielerzentrierte Informationen automatisiert aus Videoaufnahmen zu extrahieren. Ziel ist es, spielrelevante Szenen (z. B. Ballverluste, Torschüsse) algorithmisch zu erkennen und visuell aufbereitet bereitzustellen. Dabei wird besonderer Wert auf eine **intuitive Bedienung** und die **Steuerbarkeit durch pädagogische Fachkräfte** gelegt.
+
+------------------------------------------------------------------------
+
+> **SportVid** wird gefördert durch die **Deutsche Forschungsgemeinschaft (DFG)** im Rahmen des Förderprogramms für **Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)**
+
+Weitere Informationen folgen auf dieser Seite in Kürze. Bei Interesse an künftigen Ergebnissen des Projekts freuen wir uns über Ihre Kontaktaufnahme!
