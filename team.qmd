@@ -3,90 +3,90 @@ title: "Projektteam"
 ---
 
 ::::: columns
-::: {.column width="50%" vertical-align="middle"}
-[![](img/ewerth.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+::: {.column width="60%" vertical-align="middle"}
+![](img/ewerth.png){fig-align="center" height="200"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ##### **Prof. Dr. Ralph Ewerth**
 
 Philipps-Universität Marburg
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.com/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0003-0918-6297){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Ralph-Ewerth){style="text-decoration:none"}
 :::
 :::::
 
 ::::: columns
-::: {.column width="50%" vertical-align="middle"}
-[![](img/memmert.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+::: {.column width="60%" vertical-align="middle"}
+![](img/memmert.png){fig-align="center" height="200"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ##### **Prof. Dr. Daniel Memmert**
 
 Deutsche Sporthochschule Köln\
 Institut für Trainingswissenschaft und Sportinformatik
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=C1F_5bQAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-3406-9175){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Daniel-Memmert){style="text-decoration:none"}
 :::
 :::::
 
 ------------------------------------------------------------------------
 
 ::::: columns
-::: {.column width="50%" vertical-align="middle"}
-[![](img/muellerbudack.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+::: {.column width="60%" vertical-align="middle"}
+![](img/muellerbudack.png){fig-align="center" height="200"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ##### **Dr. Eric Müller-Budack**
 
 TIB Hannover, Affil TODO
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?hl=de&user=Ian_NPUAAAAJ){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-6802-1241){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Eric-Mueller-Budack){style="text-decoration:none"}
 :::
 :::::
 
 ::::: columns
-::: {.column width="50%" vertical-align="middle"}
-[![](img/theiner.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+::: {.column width="60%" vertical-align="middle"}
+![](img/theiner.png){fig-align="center" height="200"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ##### **Jonas Theiner**
 
 TIB Hannover, Affil TODO
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=74iU5qUAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-8966-4860){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/scientific-contributions/Jonas-Theiner-2164465875){style="text-decoration:none"}
 :::
 :::::
 
 ::::: columns
-::: {.column width="50%" vertical-align="middle"}
-[![](img/paul.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+::: {.column width="60%" vertical-align="middle"}
+![](img/paul.png){fig-align="center" height="200"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ##### **Yannik Paul**
 
 Deutsche Sporthochschule Köln\
 Institut für Trainingswissenschaft und Sportinformatik
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+{{< ai google-scholar size=2x >}}     [{{< ai orcid size=2x >}}](https://orcid.org/0009-0009-7931-2579){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/scientific-contributions/Yannik-Paul-2264453392){style="text-decoration:none"}
 :::
 :::::
 
 ::::: columns
-::: {.column width="50%" vertical-align="middle"}
-[![](img/klemp.png){fig-align="left" height="200"}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de)
+::: {.column width="60%" vertical-align="middle"}
+![](img/klemp.png){fig-align="center" height="200"}
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 ##### **Maximilian Klemp**
 
 Deutsche Sporthochschule Köln\
 Institut für Trainingswissenschaft und Sportinformatik
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=d8hkdv8AAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Maximilian-Klemp?ev=hdr_xprf){style="text-decoration:none"}
 :::
 :::::

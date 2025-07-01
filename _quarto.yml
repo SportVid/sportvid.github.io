@@ -7,8 +7,6 @@ website:
   favicon: favicon.ico
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: "Über das Projekt"
       - href: team.qmd
@@ -22,6 +20,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-title: "Auf dieser Seite"
 
 editor: visual
 

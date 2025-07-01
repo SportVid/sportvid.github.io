@@ -1,41 +1,31 @@
 ---
-title: "SportVid - Ein Portal zur Unterstützung der Suche, Analyse und
-Auswertung von Videos in der Sport- und Trainingswissenschaft"
+title: "SportVid" 
+subtitle: "Ein Portal zur Unterstützung der Suche, Analyse und Auswertung von Videos in der Sport- und Trainingswissenschaft"
 ---
+::: {layout="[[1,1], [1]]" layout-valign="top"}
+![](img/TIB.jpg)
+
+![](img/dshs.png)
+
+![](img/dfg.jpg){width="400px" fig-align="center"}
+:::
 
 **DFG-Geschäftszeichen: EW 134/22-1**
 
-## Das Forschungsprojekt **SportVid**
+Herzlich willkommen auf der Projekt-Website des Projekts SportVid, einem Forschungsprojekt der Technischen Informationsbibliothek (TIB) und der Deutschen Sporthochschule Köln (DSHS).
 
-**SportVid** ist ein interdisziplinäres Forschungsprojekt mit dem Ziel, eine digitale Infrastruktur für videogestützte Spielanalysen im Breiten- und Nachwuchssport zu entwickeln. Dabei steht die Ermöglichung niedrigschwelliger, datenschutzkonformer und pädagogisch sinnvoller Videonutzung im Zentrum.
+**SportVid** ist ein interdisziplinäres Forschungsprojekt mit dem Ziel, eine digitale Infrastruktur für Videoanalysen im Breiten- und Nachwuchssport zu entwickeln. Dabei steht die Ermöglichung niedrigschwelliger, datenschutzkonformer und pädagogisch sinnvoller Videonutzung im Zentrum.
 
-### 🎯 Projektziele
+## 🛠 Technologische Grundlage
 
-Das Projekt verfolgt das übergeordnete Ziel, Trainer\*innen, Sportlehrkräfte sowie Forschende dabei zu unterstützen, Videomaterial systematisch für spielbezogene Reflexion, Vermittlung und Leistungsentwicklung zu nutzen. Hierzu wird eine Online-Plattform entwickelt, die:
-
--   den **Upload, die KI-gestützte Analyse und die gezielte Auswahl von Spielszenen** ermöglicht,
--   den **Zugriff auf Lehrmaterialien** erlaubt, die eine reflektierte Nutzung der Technik fördern,
--   und auf **Datensicherheit, Transparenz und pädagogische Steuerbarkeit** besonderen Wert legt.
-
-### 🧪 Forschungsstruktur
-
-Das Projekt ist in drei Arbeitspakete (APs) gegliedert:
-
-1.  **AP1 – Bedarfsanalyse & Konzeptentwicklung**\
-    In diesem Arbeitspaket wird der bestehende Forschungsstand systematisch aufgearbeitet und durch Expert\*inneninterviews mit Fachkräften aus Sportwissenschaft, Bildung und Technologie ergänzt. Ziel ist die konzeptionelle Grundlage für die Plattform und die begleitenden didaktischen Materialien.
-
-2.  **AP2 – Entwicklung digitaler Infrastruktur & Materialien**\
-    Auf Basis der Ergebnisse aus AP1 wird eine webbasierte Plattform programmiert, die Videoanalysen mit computerbasierten Verfahren wie Objektverfolgung (Tracking) kombiniert. Parallel werden didaktisch aufbereitete Inhalte für die Aus- und Fortbildung erstellt.
-
-3.  **AP3 – Evaluation & Dissemination**\
-    Die Evaluation erfolgt formatbezogen und beinhaltet qualitative Rückmeldungen von ausgewählten Expert\*innen sowie eine nutzerorientierte Formatbewertung. Darüber hinaus ist die Veröffentlichung von Ergebnissen sowie der Transfer in die sportwissenschaftliche und sportpädagogische Praxis vorgesehen.
-
-### 🛠 Technologische Grundlage
-
-Die Plattform nutzt aktuelle Verfahren aus der **Computer Vision**, um ball- und spielerzentrierte Informationen automatisiert aus Videoaufnahmen zu extrahieren. Ziel ist es, spielrelevante Szenen (z. B. Ballverluste, Torschüsse) algorithmisch zu erkennen und visuell aufbereitet bereitzustellen. Dabei wird besonderer Wert auf eine **intuitive Bedienung** und die **Steuerbarkeit durch pädagogische Fachkräfte** gelegt.
+Die Plattform nutzt aktuelle Verfahren aus der **Computer Vision**, um automatisiert Informationen aus Videoaufnahmen zu extrahieren. Dabei werden sowohl Basisalgorithmen eingesetzt, welche generische Merkmale der Videoaufnahmen erkennen, als auch spezialisierte Algorithmen, die sportspezifische Ereignisse detektieren oder sportspezifische Daten zu generieren.
 
 ------------------------------------------------------------------------
 
 > **SportVid** wird gefördert durch die **Deutsche Forschungsgemeinschaft (DFG)** im Rahmen des Förderprogramms für **Wissenschaftliche Literaturversorgungs- und Informationssysteme (LIS)**
 
-Weitere Informationen folgen auf dieser Seite in Kürze. Bei Interesse an künftigen Ergebnissen des Projekts freuen wir uns über Ihre Kontaktaufnahme!
+Weitere Informationen zum Projektfortschritt folgen auf dieser Seite in Kürze. Bei Interesse an künftigen Ergebnissen des Projekts freuen wir uns über Ihre Kontaktaufnahme!
+
+<a href="mailto:its@dshs-koeln.de" class="btn btn-light" style="background-color: #00529B; color: #fff; border: none; margin-bottom: 1em; font-weight: 500;">
+    📧 E-Mail schreiben
+</a>
