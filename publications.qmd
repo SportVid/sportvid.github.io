@@ -1,0 +1,24 @@
+---
+title: "Publikationen"
+editor: visual
+---
+
+1.  Biermann, H., Yang, W., Wieland, F. G., Timmer, J., & Memmert, D. (2024). Quantification of Turnover Danger with xCounter. In: Brefeld, U., Davis, J., Van Haaren, J., Zimmermann, A. (eds) *Machine Learning and Data Mining for Sports Analytics. MLSA 2023. Communications in Computer and Information Science, vol 1784*. Springer, Cham.
+
+2.  Raabe, D., Nabben, R., & Memmert, D. (2023). Graph representations for the analysis of multi-agent spatiotemporal sports data. *Applied Intelligence, 53*(4), 3783-3803.
+
+3.  Wunderlich, F., Biermann, H., Yang, W., Bassek, M., Raabe, D., Elbert, N., ... & Garnica Caparrós, M. (2025). Assessing machine learning and data imputation approaches to handle the issue of data sparsity in sports forecasting. *Machine Learning, 114*(2), 1-28.
+
+4.  Garnica Caparrós, M., Memmert, D., & Wunderlich, F. (2022). The effects of scheduling network models in predictive processes in sports. *Social Network Analysis and Mining, 12*(1), 143.
+
+5.  Garnica-Caparrós, M., Memmert, D., & Wunderlich, F. (2022). Artificial data in sports forecasting: a simulation framework for analysing predictive models in sports. *Information Systems and e-Business Management*, *20*(3), 551-580.
+
+6.  Wunderlich, F. & Memmert, D. (2019). Are betting returns a useful measure of accuracy in (sports) forecasting?" *International Journal of Forecasting*, 36, 713-722.
+
+7.  Theiner, J., Gritz, W., Müller-Budack, E., Rein, R., Memmert, D., & Ewerth, R. (2022). Extraction of Positional Player Data from Broadcast Soccer Videos. *In Proceedings of the IEEE/CVF winter conference on applications of computer vision*.
+
+8.  Memmert, D., Lemmink, K. A. P. M., & Sampaio, J. (2017). Current Approaches to Tactical Performance Analyses in Soccer using Position Data. *Sports Medicine, 47*(1), 1-10. <https://doi.org/10.1007/s40279-016-0562-5>.
+
+9.  Brefeld, U., Knauf, K., & Memmert, D. (2016). Spatio-Temporal Convolution Kernels. *Machine Learning*, 102(2), 247-273. DOI: 10.1007/s10994-015-5520-1
+
+10. Low, B., Coutinho, D., Gonçalves, B., Rein, R., Memmert, D., & Sampaio, J. (2020). A systematic review of collective tactical behaviours in football using positional data. *Sports Medicine,50*, 343-385.

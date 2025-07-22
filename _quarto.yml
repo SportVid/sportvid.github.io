@@ -11,7 +11,8 @@ website:
         text: "Über das Projekt"
       - href: team.qmd
         text: "Projektteam"
-      
+      - href: publications.qmd
+        text: "Publikationen"
 
 format:
   html:

@@ -35,29 +35,15 @@ Institut für Trainingswissenschaft und Sportinformatik
 
 ::::: columns
 ::: {.column width="60%" vertical-align="middle"}
-![](img/muellerbudack.png){fig-align="center" height="200"}
+![](img/krawczyk.png){fig-align="center" height="200"}
 :::
 
 ::: {.column width="40%"}
-##### **Dr. Eric Müller-Budack**
+##### Alexander Krawczyk
 
-TIB Hannover, Affil TODO
+Philipps-Universität Marburg\
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?hl=de&user=Ian_NPUAAAAJ){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-6802-1241){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Eric-Mueller-Budack){style="text-decoration:none"}
-:::
-:::::
-
-::::: columns
-::: {.column width="60%" vertical-align="middle"}
-![](img/theiner.png){fig-align="center" height="200"}
-:::
-
-::: {.column width="40%"}
-##### **Jonas Theiner**
-
-TIB Hannover, Affil TODO
-
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=74iU5qUAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-8966-4860){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/scientific-contributions/Jonas-Theiner-2164465875){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=74iU5qUAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-8966-4860){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Alexander-Krawczyk){style="text-decoration:none"}
 :::
 :::::
 
@@ -67,12 +53,12 @@ TIB Hannover, Affil TODO
 :::
 
 ::: {.column width="40%"}
-##### **Yannik Paul**
+##### Yannik Paul
 
 Deutsche Sporthochschule Köln\
 Institut für Trainingswissenschaft und Sportinformatik
 
-{{< ai google-scholar size=2x >}}     [{{< ai orcid size=2x >}}](https://orcid.org/0009-0009-7931-2579){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/scientific-contributions/Yannik-Paul-2264453392){style="text-decoration:none"}
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=ooknElQAAAAJ&hl=de)     [{{< ai orcid size=2x >}}](https://orcid.org/0009-0009-7931-2579){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Yannik-Paul-2){style="text-decoration:none"}
 :::
 :::::
 
@@ -88,5 +74,49 @@ Deutsche Sporthochschule Köln\
 Institut für Trainingswissenschaft und Sportinformatik
 
 [{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=d8hkdv8AAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://scholar.google.de/citations?user=rDiYRfwAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Maximilian-Klemp?ev=hdr_xprf){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="60%" vertical-align="middle"}
+![](img/theiner.png){fig-align="center" height="200"}
+:::
+
+::: {.column width="40%"}
+##### **Jonas Theiner**
+
+Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum Technik und Naturwissenschaften \
+Forschungsgruppe Visual Analytics
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=74iU5qUAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-8966-4860){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/scientific-contributions/Jonas-Theiner-2164465875){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="60%" vertical-align="middle"}
+![](img/muellerbudack.png){fig-align="center" height="200"}
+:::
+
+::: {.column width="40%"}
+##### **Dr. Eric Müller-Budack**
+Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum Technik und Naturwissenschaften \
+Forschungsgruppe Visual Analytics
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?hl=de&user=Ian_NPUAAAAJ){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-6802-1241){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Eric-Mueller-Budack){style="text-decoration:none"}
+:::
+:::::
+
+::::: columns
+::: {.column width="60%" vertical-align="middle"}
+![](img/springstein.png){fig-align="center" height="200"}
+:::
+
+::: {.column width="40%"}
+##### **Matthias Springstein**
+
+Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum Technik und Naturwissenschaften \
+Forschungsgruppe Visual Analytics
+
+[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?hl=de&user=Ian_NPUAAAAJ){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-6802-1241){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Eric-Mueller-Budack){style="text-decoration:none"}
 :::
 :::::

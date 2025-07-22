@@ -2,6 +2,9 @@
 title: "SportVid" 
 subtitle: "Ein Portal zur Unterstützung der Suche, Analyse und Auswertung von Videos in der Sport- und Trainingswissenschaft"
 ---
+
+![](img/sportvid_pitch.png){width="600px" fig-align="center"}
+
 ::: {layout="[[1,1], [1]]" layout-valign="top"}
 ![](img/TIB.jpg)
 
