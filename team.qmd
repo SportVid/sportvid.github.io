@@ -35,7 +35,7 @@ Institut für Trainingswissenschaft und Sportinformatik
 
 ::::: columns
 ::: {.column width="60%" vertical-align="middle"}
-![](img/krawczyk.png){fig-align="center" height="200"}
+![](img/krawczyk.jpg){fig-align="center" height="200"}
 :::
 
 ::: {.column width="40%"}
@@ -43,7 +43,7 @@ Institut für Trainingswissenschaft und Sportinformatik
 
 Philipps-Universität Marburg\
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?user=74iU5qUAAAAJ&hl=de){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-8966-4860){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Alexander-Krawczyk){style="text-decoration:none"}
+{{< ai google-scholar size=2x >}}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-4164-8490){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Alexander-Krawczyk){style="text-decoration:none"}
 :::
 :::::
 
@@ -77,6 +77,8 @@ Institut für Trainingswissenschaft und Sportinformatik
 :::
 :::::
 
+---
+
 ::::: columns
 ::: {.column width="60%" vertical-align="middle"}
 ![](img/theiner.png){fig-align="center" height="200"}
@@ -103,12 +105,13 @@ Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum Technik un
 Forschungsgruppe Visual Analytics
 
 [{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?hl=de&user=Ian_NPUAAAAJ){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-6802-1241){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Eric-Mueller-Budack){style="text-decoration:none"}
+
 :::
 :::::
 
 ::::: columns
 ::: {.column width="60%" vertical-align="middle"}
-![](img/springstein.png){fig-align="center" height="200"}
+![](img/springstein.jpg){fig-align="center" height="200"}
 :::
 
 ::: {.column width="40%"}
@@ -117,6 +120,7 @@ Forschungsgruppe Visual Analytics
 Technische Informationsbibliothek (TIB) - Leibniz-Informationszentrum Technik und Naturwissenschaften \
 Forschungsgruppe Visual Analytics
 
-[{{< ai google-scholar size=2x >}}](https://scholar.google.de/citations?hl=de&user=Ian_NPUAAAAJ){style="text-decoration:none"}     [{{< ai orcid size=2x >}}](https://orcid.org/0000-0002-6802-1241){style="text-decoration:none"}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/profile/Eric-Mueller-Budack){style="text-decoration:none"}
+{{< ai google-scholar size=2x >}}     {{< ai orcid size=2x >}}     [{{< ai researchgate size=2x >}}](https://www.researchgate.net/scientific-contributions/Matthias-Springstein-2110796256){style="text-decoration:none"}
+
 :::
 :::::
