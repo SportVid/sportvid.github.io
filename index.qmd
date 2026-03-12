@@ -29,6 +29,4 @@ Die Plattform nutzt aktuelle Verfahren aus der **Computer Vision**, um automatis
 
 Weitere Informationen zum Projektfortschritt folgen auf dieser Seite in Kürze. Bei Interesse an künftigen Ergebnissen des Projekts freuen wir uns über Ihre Kontaktaufnahme!
 
-<a href="mailto:its@dshs-koeln.de" class="btn btn-light" style="background-color: #00529B; color: #fff; border: none; margin-bottom: 1em; font-weight: 500;">
-    📧 E-Mail schreiben
-</a>
+<a href="mailto:its@dshs-koeln.de" class="btn btn-light" style="background-color: #00529B; color: #fff; border: none; margin-bottom: 1em; font-weight: 500;"> 📧 E-Mail schreiben </a>
